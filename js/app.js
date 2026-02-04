@@ -1,4 +1,3 @@
-//
 function comprar() {
     let quantidadePista = parseInt(document.getElementById('qtd-pista').textContent);
     let quantidadeSuperior = parseInt(document.getElementById('qtd-superior').textContent);
